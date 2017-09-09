@@ -1,6 +1,6 @@
 ## Scroll events
 
-CSS
+XML
 <snippet id='scroll-event-html'/>
 
 TypeScript
